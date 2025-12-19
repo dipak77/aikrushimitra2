@@ -1,0 +1,9 @@
+{
+  "name": "AI Krushi Mitra 2",
+  "description": "Smart farming assistant for Indian farmers with Marathi support, disease detection, and AI advice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
